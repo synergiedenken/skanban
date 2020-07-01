@@ -12,4 +12,4 @@ Unlike conventional online services, skanban lets you choose where to keep your 
 
 Visit https://synergiedenken.de/skanban-tool to explore and to download an empty copy of skanban.
 
-Feel free to drop an issue here.
+Feel free to drop an issue.
